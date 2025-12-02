@@ -68,9 +68,8 @@ HealthStack is a robust, all-in-one web application designed to digitize hospita
 *(Add screenshots of your dashboard here later)*
 
 ## 👤 Author
-**Vijay Inala**
-* **Email:** vijayainala3@gmail.com
-* **GitHub:** [vijayainala3](https://github.com/vijayainala3)
+**Aditya Varma**
+* **GitHub:** [adityavarma](https://github.com/adityavarmaaa)
 
 ---
 *This project is for educational and portfolio purposes.*
